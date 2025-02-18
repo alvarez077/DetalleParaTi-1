@@ -113,7 +113,7 @@ particlesJS("particles-js", {
     shape: {
       type: "image",
       image: {
-        src: "https://img.icons8.com/?size=100&id=12306&format=png&color=000000", // Aquí puedes usar cualquier imagen de corazón
+        src: "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f493.png", // Aquí puedes usar cualquier imagen de corazón
         width: 2,
         height: 2,
       },
